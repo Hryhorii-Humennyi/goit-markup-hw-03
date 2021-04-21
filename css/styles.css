@@ -111,6 +111,8 @@ img {
   line-height: 1.87;
   letter-spacing: 0.06em;
   color: var(--title-cl);
+  padding: 6px 22px;
+  border: none;
 }
 .btn:hover,
 .btn:focus {
@@ -258,7 +260,4 @@ img {
   background-color: var(--dark-bg);
   padding: 200px 0;
   text-align: center;
-}
-.button {
-  padding: 6px 22px;
 }
